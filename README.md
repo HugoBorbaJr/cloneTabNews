@@ -1,2 +1,2 @@
 # cloneTabNews
-Projeto Clone doTabNews para estudos.
+Projeto Clone do TabNews para estudos.
